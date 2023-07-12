@@ -1,2 +1,3 @@
 type=string
-"E4606" "Alexandru Mocanu - Corvallis"
+"E4606" "CORVALLIS - Alexandru Mocanu"
+"E4605" "CORVALLIS - Roberto Periale"
