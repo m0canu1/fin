@@ -1,0 +1,2 @@
+type=string
+"E4606" "Alexandru Mocanu - Corvallis"
